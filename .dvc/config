@@ -1,6 +1,5 @@
 [core]
-    remote = myremote
-['remote "myremote"']
-    url = gdrive://184v4ZDKsy5OUDSHC1r4abgOa2Bb_Cr8J
-    gdrive_use_service_account = true
-    gdrive_service_account_json_file_path = /home/ujjwal/Downloads/dvc.json
+    remote = origin
+['remote "origin"']
+    url = s3://dvc
+    endpointurl = https://dagshub.com/ujjwalvictus15/NPL-Fantasty_API.s3
