@@ -1,0 +1,5 @@
+outs:
+- md5: 33adc63ed6b607cddcbfc6e99992a4c7
+  size: 834541
+  hash: md5
+  path: NPL-2024.csv
