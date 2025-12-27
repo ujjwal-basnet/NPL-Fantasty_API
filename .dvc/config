@@ -1,5 +1,0 @@
-[core]
-    remote = origin
-['remote "origin"']
-    url = s3://dvc
-    endpointurl = https://dagshub.com/ujjwalvictus15/NPL-Fantasty_API.s3
